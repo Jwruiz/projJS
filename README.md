@@ -17,18 +17,6 @@ Sigue estos pasos para clonar el repositorio y ejecutar la aplicación localment
 # Clonar el repositorio
 git clone https://github.com/Jwruiz/projJS.git
 
-# Navegar a la carpeta del proyecto
-cd conferencia-tecnologia
-
-# Configurar la base de datos MySQL
-# Crear una base de datos y configurar las credenciales en el archivo de configuración de Java
-
-# Compilar y ejecutar el backend (Java)
-./mvnw 
-
-# Acceder a la aplicación
-# Abre el archivo index.html en un navegador o configura un servidor web.
-Uso
 Una vez que la aplicación esté corriendo:
 
 Comprar tickets: Dirígete a la sección de tickets, selecciona el número de entradas y aplica cualquier código de descuento.
