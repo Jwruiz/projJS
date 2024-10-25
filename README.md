@@ -1,4 +1,4 @@
-![vista del index](./img/indexImg.png)
+![vista del index](/img/indexImg.png)
 
 
 Conferencia sobre Tecnología: es una aplicación web que permite a los usuarios comprar tickets para un evento o registrarse como oradores en una conferencia. El sistema ofrece funcionalidades avanzadas como el cálculo y aplicación de descuentos, así como la gestión completa de oradores (agregar, modificar y eliminar).
