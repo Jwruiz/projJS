@@ -21,13 +21,7 @@ Una vez que la aplicación esté corriendo:
 
 Comprar tickets: Dirígete a la sección de tickets, selecciona el número de entradas y aplica cualquier código de descuento.
 Registro de oradores: Puedes agregar, modificar o eliminar oradores desde la sección "Administración de Oradores".
-Contribuciones
-Si deseas contribuir a este proyecto, sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-Envía un pull request.
 
 Licencia
 Jeheremi Ruiz
